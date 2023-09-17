@@ -1,0 +1,13 @@
+{
+  "name": "edlin-reactjs",
+  "version": "0.1.0",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "test": ""
+  },
+  "devDependencies": {
+    "react": "^18.2.0"
+  }
+}
